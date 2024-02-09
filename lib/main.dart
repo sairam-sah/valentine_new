@@ -80,6 +80,9 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               onPressed: () {
                 setState(() {
+
+
+                  var a;
                   if (currentIndex != 0) {
                     currentIndex--;
                   }
