@@ -33,8 +33,8 @@ class _MyHomePageState extends State<MyHomePage> {
     "https://lottie.host/13cd4b24-a264-4f1b-bc13-8a1d0d13d09c/153UPk4Pm1.json",
     "https://lottie.host/11f96630-e9de-451b-8b4c-68f4d8c5f821/9ktSpFTWox.json",
     "https://lottie.host/8dc7f583-1628-4591-8ca4-6edec465e474/X2IRexLD9a.json",
-    "https://lottie.host/ed4744e5-a796-4d8a-bef6-772d2b5439b9/MOTFh1eQB9.json",
     "https://lottie.host/c1bab8c3-da02-491a-a432-912192633f33/NTv0Dl6gx4.json",
+    "https://lottie.host/ed4744e5-a796-4d8a-bef6-772d2b5439b9/MOTFh1eQB9.json",
     "https://lottie.host/6bec0904-7582-4aa2-9867-ef3dc1fe6da5/67uK3veIOs.json"
   ];
 
@@ -44,9 +44,9 @@ class _MyHomePageState extends State<MyHomePage> {
     "Chocolate Day",
     "Teddy Day",
     "Promise Day",
+     "Hug Day",
     "Kiss Day",
-    "Hug Day",
-    "Happy Valentine Day"
+   "Happy Valentine Day"
     ];
 
 
